@@ -12,6 +12,8 @@ O sistema é composto por três partes principais:
 
 3.  **Servidor Local (WebSocket):** Um servidor Node.js que roda na sua máquina (porta 3005) e serve como ponte entre a extensão do navegador e a aplicação web.
 4.  **Extensão do Navegador:** Captura o título, episódio e tempo de reprodução do anime que você está assistindo e envia para o servidor local.
+   
+5.  **Baixar aqui:** https://github.com/guilhermealceu/isekai-tracker-web/releases/download/Extension_1.1.0/isekai-extension-2.0.zip
 
 ### Fluxo de Dados
 
